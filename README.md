@@ -3,3 +3,5 @@
 Churn veri seti ile model egitimi yaptım. Bunu hem pyhon hemde pyspark tarafında yaptım
 
 Churn_AK.ipynb Projesi Python ile yazılmıştır
+
+Pyspark_AK.ipynb Pyspark ile yazılmıştır
